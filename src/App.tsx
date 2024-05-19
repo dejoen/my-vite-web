@@ -1,9 +1,10 @@
-import { useState } from 'react'
+/*import { useState } from 'react'*/
 import NavBarComponent from './component/NavBarComponent.tsx'
 function App() {
-  const [count, setCount] = useState(0)
+ /* const [count, setCount] = useState(0)
 let name= "john"
   const [image,setImage] = useState(null)
+  */
    return (
 
     <>

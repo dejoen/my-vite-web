@@ -1,6 +1,6 @@
 import {Disclosure} from '@headlessui/react'
-import { HomeIcon } from '@heroicons/react/24/outline'
-let NavBarComponent = (props) =>{
+/*import { HomeIcon } from '@heroicons/react/24/outline'*/
+let NavBarComponent = () =>{
   
   return (
     <Disclosure  as="nav" className="relative bg-gray-800 static top-0 z-1">

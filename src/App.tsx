@@ -8,7 +8,7 @@ let name= "john"
    return (
 
     <>
-  <NavBarComponent name={name}/>
+  <NavBarComponent />
   <div className="relative bg-blue-400 min-h-screen">
   <p> body</p>
   <div className="bg-amber-700  m-1.5 rounded sm:m-10 sm:bg-emerald-700 sm:h-96 h-fit" >
